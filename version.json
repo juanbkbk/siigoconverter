@@ -1,0 +1,8 @@
+{
+  "_comentario": "Actualizar este archivo cuando haya una nueva version",
+  "version": "5.9",
+  "novedades": "- Version inicial",
+  "obligatoria": false,
+  "contacto": "WhatsApp",
+  "_contacto_ayuda": "Este texto aparece en el aviso al cliente. Puede ser WhatsApp, correo o telefono."
+}
