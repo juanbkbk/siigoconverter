@@ -1,8 +1,12 @@
 {
-  "_comentario": "Actualizar este archivo cuando haya una nueva version",
   "version": "5.9",
-  "novedades": "- Version inicial",
+  "novedades": "- Versión inicial",
   "obligatoria": false,
-  "contacto": "WhatsApp",
-  "_contacto_ayuda": "Este texto aparece en el aviso al cliente. Puede ser WhatsApp, correo o telefono."
+  "contacto": "WhatsApp: +57 300 000 0000",
+
+  "_revocados_ayuda": "Lista de Machine IDs bloqueados. Agregar el ID del cliente a revocar.",
+  "revocados": [CF0EB1BCB152059C],
+
+  "_motivo_ayuda": "Mensaje personalizado por Machine ID (opcional).",
+  "motivo_revocacion": {}
 }
