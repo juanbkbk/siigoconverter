@@ -5,7 +5,7 @@
   "contacto": "WhatsApp: +57 300 000 0000",
 
   "_revocados_ayuda": "Lista de Machine IDs bloqueados. Agregar el ID del cliente a revocar.",
-  "revocados": [],
+  "revocados": [2492F881FD66D8F4],
 
   "_motivo_ayuda": "Mensaje personalizado por Machine ID (opcional).",
   "motivo_revocacion": {}
